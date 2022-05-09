@@ -1,6 +1,7 @@
 // 윤년 - 연도가 4의 배수이면서, 100의 배수가 아닐 때 또는 400의 배수일 때
 // 윤년이면 1, 아니면 0
-public class Coding_Study_2753 {
+import java.util.Scanner;
+public class Q2753 {
 
 	public static int solution(int n) {
 		if(n % 4 == 0 && n % 100 !=0 || n % 400 ==0) {
