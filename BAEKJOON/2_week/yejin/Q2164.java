@@ -16,9 +16,9 @@ public class Q2164 {
         }
         while(que.size()!=1){
             que.poll();
-            que.add((int)que.poll());
+            que.add(que.poll());
         }
-        return (int)que.poll();
+        return que.poll();
     }
 
     public static void main(String[] args) {
