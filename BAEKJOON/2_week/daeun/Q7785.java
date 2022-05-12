@@ -1,6 +1,9 @@
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
+
+import javafx.collections.transformation.SortedList;
 
 public class Q7785 {
     public static void solution() {
@@ -10,9 +13,14 @@ public class Q7785 {
         String name = "";
         String log = "";
         System.out.println(n);
-        for(int i = 0; i < n; i++) {
+        loop: for(int i = 0; i < n; i++) {
             name = scan.next();
             log = scan.next();
+            if(name.length() > 5) {
+                System.out.println("이름 길이 오류");
+                i = 0;
+                continue loop;
+            }
         
             if(log.equals("enter")) {
                 al.add(name);
@@ -29,3 +37,4 @@ public class Q7785 {
         solution();
     }
 }
+//사전 순의 역순으로 출력 포기..

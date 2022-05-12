@@ -1,9 +1,11 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
+import java.util.Scanner;
 public class Q2164 {
-    public static int solution(int n) {
+    public static int solution() {
+        Scanner scan = new Scanner(System.in);
         Queue<Integer> q = new LinkedList<>();
+        int n = scan.nextInt();
         for(int i = 1; i < n+1; i++) {
             q.add(i);
         }
@@ -16,7 +18,7 @@ public class Q2164 {
 
 
     public static void main(String[] args) {
-        System.out.println(solution(6));
+        System.out.println(solution());
     }
 }
 

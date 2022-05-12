@@ -2,9 +2,10 @@ import java.util.Stack;
 import java.util.Scanner;
 
 public class Q10773 {
-    public static int solution(int n) {
+    public static int solution() {
         Scanner scan = new Scanner(System.in);
         Stack<Integer> st = new Stack<>();
+        int n = scan.nextInt();
         int num = 0;
         int sum = 0;
         System.out.println(n);
@@ -23,6 +24,6 @@ public class Q10773 {
     }
     
             public static void main(String[] args) {
-               System.out.println("합: " + solution(10));
+               System.out.println("합: " + solution());
             }
 }
