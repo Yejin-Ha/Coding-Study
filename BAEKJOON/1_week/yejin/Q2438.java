@@ -1,3 +1,5 @@
+// ######## 결과 - 성공
+
 public class Q2438 {
 	public static void solution(int n) {
 		for (int i = 0; i < n;i++) {
