@@ -1,3 +1,5 @@
+// ######## 결과 - 성공
+
 import java.util.Scanner;
 
 public class Q1001{

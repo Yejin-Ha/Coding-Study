@@ -1,3 +1,5 @@
+// ######## 결과 - 성공
+
 public class Q10872 {
     // solution 1) 반복문 사용
     public static int solution1(int n) {
