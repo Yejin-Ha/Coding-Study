@@ -3,8 +3,8 @@ import java.util.Stack;
 
 public class   Q10773{
     //스택사용
-    //public static int solution(){
-     public static void main(String[] args){
+    public static int solution(){
+     //public static void main(String[] args){
     Stack<Integer> stack = new Stack<>();
 	Scanner scan = new Scanner(System.in);	
     int k = scan.nextInt(); //입력개수
@@ -25,7 +25,9 @@ int sum = 0;
 for(int s : stack) {	// 스택에 담기 정수 합
 	sum += s;
 }
-    //public static void main(String[] args){
-        System.out.println(sum);
+return sum;
+    }
+    public static void main(String[] args){
+        System.out.println(solution());
     }
 }
