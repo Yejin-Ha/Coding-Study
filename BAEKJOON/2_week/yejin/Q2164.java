@@ -3,6 +3,8 @@
 
 stack : LIFO - 후입선출
 Queue : FIFO - 선입선출
+
+######## 결과 - 성공
 */
 
 import java.util.LinkedList;
