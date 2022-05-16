@@ -1,3 +1,3 @@
-static void solution(){
-    System.out.print("Sorry, Master")
+public class Q2439{
+
 }
