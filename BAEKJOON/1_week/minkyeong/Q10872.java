@@ -7,7 +7,7 @@ public class Q10872 {
 		int num = scan.nextInt();
 
 		int fac = 1; // 곱하는 초기값 설정
-		for (int i = 1; i <= 4num; i++) {
+		for (int i = 1; i <= num; i++) {
 			fac = fac * i; //fac에 누적시키기
 		}
 		System.out.println(num + "! = " + fac);
