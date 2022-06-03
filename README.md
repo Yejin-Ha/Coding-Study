@@ -28,3 +28,4 @@
 |2주차|백준] 카드2<br/>백준] 회사에 있는 사람<br/>백준] 제로|https://www.acmicpc.net/problem/2164 <br/>https://www.acmicpc.net/problem/7785 <br/> https://www.acmicpc.net/problem/10773|
 |3주차|백준] 단어 공부(1157)<br/>백준] 이동<br/>백준] 최단경로|https://www.acmicpc.net/problem/1157<br/>https://www.acmicpc.net/problem/1067<br/>https://www.acmicpc.net/problem/1753|
 |4주차|백준] 덱(10866)<br/>백준] 모음의 수(1264)|https://www.acmicpc.net/problem/10866<br/>https://www.acmicpc.net/problem/1264|
+|5주차|백준] 슈퍼마리오(2851)<br/>백준] 2루수 이름이 뭐야(17350)|https://www.acmicpc.net/problem/2851<br/>https://www.acmicpc.net/problem/17350|
