@@ -27,3 +27,4 @@
 |1주차|백준] A-B(1001)<br/>백준] 별 찍기 - 1(2438)<br/>백준] 별 찍기 - 2(2439) <br/>백준] 윤년(2753) <br/> 백준] 팩토리얼(10872)|https://www.acmicpc.net/problem/1001 <br/> https://www.acmicpc.net/problem/2438 <br/> https://www.acmicpc.net/problem/2439 <br/> https://www.acmicpc.net/problem/2753 <br/> https://www.acmicpc.net/problem/10872|
 |2주차|백준] 카드2<br/>백준] 회사에 있는 사람<br/>백준] 제로|https://www.acmicpc.net/problem/2164 <br/>https://www.acmicpc.net/problem/7785 <br/> https://www.acmicpc.net/problem/10773|
 |3주차|백준] 단어 공부(1157)<br/>백준] 이동<br/>백준] 최단경로|https://www.acmicpc.net/problem/1157<br/>https://www.acmicpc.net/problem/1067<br/>https://www.acmicpc.net/problem/1753|
+|4주차|백준] 덱(10866)<br/>백준] 모음의 수(1264)|https://www.acmicpc.net/problem/10866<br/>https://www.acmicpc.net/problem/1264|
