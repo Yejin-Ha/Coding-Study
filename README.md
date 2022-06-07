@@ -22,6 +22,10 @@
 <br/>
 
 ## 문제 목록
+<details>
+<summary>문제 목록 보기</summary>
+<div markdown="1">
+
 |주차|문제|링크|
 |---|---|---|
 |1주차|백준] A-B(1001)<br/>백준] 별 찍기 - 1(2438)<br/>백준] 별 찍기 - 2(2439) <br/>백준] 윤년(2753) <br/> 백준] 팩토리얼(10872)|https://www.acmicpc.net/problem/1001 <br/> https://www.acmicpc.net/problem/2438 <br/> https://www.acmicpc.net/problem/2439 <br/> https://www.acmicpc.net/problem/2753 <br/> https://www.acmicpc.net/problem/10872|
@@ -29,3 +33,12 @@
 |3주차|백준] 단어 공부(1157)<br/>백준] 이동<br/>백준] 최단경로|https://www.acmicpc.net/problem/1157<br/>https://www.acmicpc.net/problem/1067<br/>https://www.acmicpc.net/problem/1753|
 |4주차|백준] 덱(10866)<br/>백준] 모음의 수(1264)|https://www.acmicpc.net/problem/10866<br/>https://www.acmicpc.net/problem/1264|
 |5주차|백준] 슈퍼마리오(2851)<br/>백준] 2루수 이름이 뭐야(17350)|https://www.acmicpc.net/problem/2851<br/>https://www.acmicpc.net/problem/17350|
+</div>
+</details>
+
+<br/>
+<br/>
+
+## 알고리즘 정리
+- ### 자료구조
+    1. [Deque](https://puddle-horse-c8c.notion.site/Deque-5717b3f2251840b18a92620edadebf62) - [관련 문제 : 백준 10866번](https://www.acmicpc.net/problem/10866)
