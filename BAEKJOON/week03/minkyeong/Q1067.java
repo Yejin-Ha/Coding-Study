@@ -14,7 +14,7 @@ public class Q1067{
     public static int solution(){
         int n = 0;
       
-
+        return n;
     }
 
     public static void main(String[] args) {
