@@ -43,4 +43,5 @@
 
 ## 알고리즘 정리
 - ### 자료구조
-    - [Deque](https://puddle-horse-c8c.notion.site/Deque-5717b3f2251840b18a92620edadebf62) - [관련 문제 : 백준 10866번](https://www.acmicpc.net/problem/10866)
+    - [Deque](https://puddle-horse-c8c.notion.site/Deque-5717b3f2251840b18a92620edadebf62)  -->   [관련 문제 : 백준 10866번](https://www.acmicpc.net/problem/10866)
+    - [에라토스테네스의 체](https://puddle-horse-c8c.notion.site/9e76cf12e0604350a81222705138631d)  -->   [관련 문제 : 백준 1929번](https://www.acmicpc.net/problem/1929)
