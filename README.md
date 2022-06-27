@@ -34,6 +34,7 @@
 |4주차|백준] 덱(10866)<br/>백준] 모음의 수(1264)|https://www.acmicpc.net/problem/10866<br/>https://www.acmicpc.net/problem/1264|
 |5주차|백준] 슈퍼마리오(2851)<br/>백준] 2루수 이름이 뭐야(17350)|https://www.acmicpc.net/problem/2851<br/>https://www.acmicpc.net/problem/17350|
 |6주차|백준] 평균점수(10039)<br/>백준] 덱(10866) [re]|https://www.acmicpc.net/problem/10039<br/>https://www.acmicpc.net/problem/10866|
+|7주차|백준] 소수(1312)<br/>백준] 더하기 사이클(1110) [re]|https://www.acmicpc.net/problem/1312<br/>https://www.acmicpc.net/problem/1110|
 
 </div>
 </details>
@@ -42,6 +43,10 @@
 <br/>
 
 ## 알고리즘 정리
-- ### 자료구조
+- **자료구조**
     - [Deque](https://puddle-horse-c8c.notion.site/Deque-5717b3f2251840b18a92620edadebf62)  -->   [관련 문제 : 백준 10866번](https://www.acmicpc.net/problem/10866)
+- **수학**
     - [에라토스테네스의 체](https://puddle-horse-c8c.notion.site/9e76cf12e0604350a81222705138631d)  -->   [관련 문제 : 백준 1929번](https://www.acmicpc.net/problem/1929)
+- **그리디 알고리즘**
+    - [탐욕 알고리즘](https://puddle-horse-c8c.notion.site/d878145382924792a2cd6216236cf0c6)  -->   [관련 문제 : 백준 2839번](https://www.acmicpc.net/problem/2839)
+
